@@ -1,2 +1,3 @@
 # hello-world
-practicing
+Hope I can learn this well!
+Hui
